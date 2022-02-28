@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/wallot-us/wallot-node/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/wallot-us/wallot-node",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/wallot.js",
+  "name": "wallot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wallot-us/wallot-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
